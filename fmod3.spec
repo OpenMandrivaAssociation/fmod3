@@ -7,7 +7,7 @@
 Summary:	Fast, powerful, easy to use sound system
 Name:		fmod3
 Version:	3.75
-Release:	%mkrel 1
+Release:	2
 License:	FMOD Licence (free for non-commercial use)
 Group:		System/Libraries
 URL:		http://www.fmod.org/
