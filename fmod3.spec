@@ -10,7 +10,7 @@ Version:	3.75
 Release:	3
 License:	FMOD Licence (free for non-commercial use)
 Group:		System/Libraries
-URL:		http://www.fmod.org/
+URL:		https://www.fmod.org/
 Source:		http://www.fmod.org/files/fmodapi%{oversion}linux.tar.gz
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root
 ExclusiveArch:	%{ix86}
